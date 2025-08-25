@@ -33,11 +33,7 @@ Meu foco é integrar **tecnologia, desenvolvimento de software e análise de dad
 
 ## 🚀 Projetos em Destaque
 
-### Calculadora de Orçamento Pessoal
-- **Descrição:** aplicação simples em Python para organizar renda e despesas  
-- **Objetivo:** praticar lógica de programação, entrada e saída de dados e estruturas condicionais  
-- **Aprendizado:** manipulação de variáveis, cálculo de saldo, mensagens condicionais e formatação de saída  
-- **Código base:** adaptado de [Fonte do Código](link-da-fonte)  
+
 
 > Outros projetos serão adicionados à medida que avanço nos estudos em programação e análise de dados.
 
