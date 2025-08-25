@@ -40,7 +40,7 @@ Meu foco é integrar **tecnologia, desenvolvimento de software e análise de dad
 ---
 
 ## 📫 Conecte-se comigo
-- 🔗 [LinkedIn](cole-aqui-seu-link)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gustavosenacarvalho/)  
 - 💡 GitHub com meus projetos em constante evolução  
 
-✨ Perfil focado em **aprendizado contínuo e desenvolvimento profissional em TI**, conectando **gestão, tecnologia e sustentabilidade**. Feedbacks e conexões são sempre bem-vindos!
+ Perfil focado em **aprendizado contínuo e desenvolvimento profissional em TI**, conectando **gestão, tecnologia e sustentabilidade**. Feedbacks e conexões são sempre bem-vindos!
